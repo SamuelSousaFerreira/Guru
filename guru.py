@@ -1,6 +1,3 @@
-
-#API_KEY = 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
-
 import tempfile
 
 import streamlit as st
